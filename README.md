@@ -1,4 +1,4 @@
-# Project Title: Webpack Test Project
+# Webpack Test Project
 
 ## This repository contains a simple Webpack test project to demonstrate the basic setup and configuration of Webpack for building and bundling web applications.
 
